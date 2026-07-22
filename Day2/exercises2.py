@@ -54,4 +54,3 @@ age = input("Enter your age: ")
 
 print(first_name, last_name, country, age)
 
-help("keywords")
